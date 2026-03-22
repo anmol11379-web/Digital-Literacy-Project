@@ -3,7 +3,7 @@ Digital Literacy Project 🎯 An infographic-based project focused on promoting 
 
 # Hi, I'm Anmol Mishra 👋
 
-🎓 B.Tech Student (AI-ML)  
+🎓 B.Tech CSE(AI-ML) Student  
 📍 VIT BHOPAL 
 📅 Expected Graduation: 2027  
 
