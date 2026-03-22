@@ -1,6 +1,6 @@
 # 🛡️ Stay Safe Online – Prevention Checklist
 
----
+
 
 ## 🔒 General Safety Tips
 - ✅ Never share **OTP, PIN, or passwords** with anyone  
@@ -8,7 +8,7 @@
 - ✅ Always verify calls/messages claiming to be from banks  
 - ✅ Use **strong and unique passwords** for accounts  
 
----
+
 
 ## 💳 UPI / Online Payment Safety
 - ⚠️ Never approve **unknown payment requests**  
@@ -16,7 +16,6 @@
 - ⚠️ Use only **official apps** (Google Pay, PhonePe, etc.)  
 - ⚠️ Always check **receiver details** before sending money  
 
----
 
 ## 🚨 Report Cyber Fraud
 - 🌐 **National Cyber Crime Portal**  
@@ -24,7 +23,7 @@
 
 - 📞 **Helpline Number:** 1930  
 
----
+
 
 ## ✨ Final Reminder
 > **Stay Alert • Stay Safe • Stay Smart**
