@@ -38,6 +38,3 @@ that appear to be from banks, payment apps, or customer support.
 > Always verify requests carefully and **never share confidential information** like OTP or PIN.
 
 ✔ Awareness and caution are the best defenses against online payment fraud.
-> Always verify requests carefully and **never share confidential information** like OTP or PIN.
-
-✔ Awareness and caution are the best defenses against online payment fraud.
