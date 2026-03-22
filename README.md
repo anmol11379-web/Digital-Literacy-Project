@@ -5,7 +5,7 @@ Digital Literacy Project 🎯 An infographic-based project focused on promoting 
 
 🎓 B.Tech CSE(AI-ML) Student  
 📍 VIT BHOPAL 
-📅 Expected Graduation: 2027  
+📅 Expected Graduation: 2029 
 
 💡 I am interested in Artificial Intelligence and Machine Learning.  
 🚀 I want to learn and build real-world projects in AI, web development, and data science.  
