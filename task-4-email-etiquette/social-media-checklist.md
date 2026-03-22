@@ -1,6 +1,5 @@
-========================================
-SOCIAL MEDIA DO’S & DON’TS CHECKLIST
-========================================
+# SOCIAL MEDIA DO’S & DON’TS CHECKLIST
+
 
 ✔ DO’s:
 ----------------------------------------
@@ -18,6 +17,4 @@ SOCIAL MEDIA DO’S & DON’TS CHECKLIST
 • Avoid spreading unverified or false information  
 • Do not harm your digital reputation with careless posts  
 
-========================================
-  Be Smart • Be Safe • Be Responsible
-========================================
+# Be Smart • Be Safe • Be Responsible
