@@ -1,5 +1,5 @@
 ========================================
-   SOCIAL MEDIA DO’S & DON’TS CHECKLIST
+SOCIAL MEDIA DO’S & DON’TS CHECKLIST
 ========================================
 
 ✔ DO’s:
