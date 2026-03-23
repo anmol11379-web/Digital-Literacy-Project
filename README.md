@@ -28,7 +28,7 @@
 
 ## 💻 Task 3: Coding & Platforms
 📝 Practiced coding on HackerRank and created a Google Form quiz to promote digital literacy awareness among peers.  
-📝 https://docs.google.com/forms/d/e/1FAIpQLSeH21TfdVWKzUJNIZeKHysxFwNc3MW1IvLR15kxYCl4x_cpQQ/viewform?usp=preview
+📝 [Google Form] https://docs.google.com/forms/d/e/1FAIpQLSeH21TfdVWKzUJNIZeKHysxFwNc3MW1IvLR15kxYCl4x_cpQQ/viewform?usp=preview
 
 🔗 https://github.com/anmol11379-web/Digital-Literacy-Project/tree/main/task-3-platforms
 
