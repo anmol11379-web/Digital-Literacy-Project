@@ -1,5 +1,5 @@
-# Digital-Literacy-Project
-Digital Literacy Project 🎯 An infographic-based project focused on promoting digital skills, safe internet practices, and effective use of online tools. Designed to educate and inform students.
+# 🌐 Digital Literacy Project
+> A complete project covering digital skills, cyber safety, and professional communication 🚀
 
 # Hi, I'm Anmol Mishra 👋
 
