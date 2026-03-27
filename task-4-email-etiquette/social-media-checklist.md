@@ -1,7 +1,7 @@
 # SOCIAL MEDIA DO’S & DON’TS CHECKLIST
 
 
-✔ DO’s:
+DO’s:
 ----------------------------------------
 • Think before posting anything online  
 • Maintain a professional and respectful tone  
@@ -9,7 +9,7 @@
 • Share useful, positive, and meaningful content  
 • Verify information before sharing (avoid fake news)  
 
-✖ DON’Ts:
+DON’Ts:
 ----------------------------------------
 • Do not share sensitive personal details publicly  
 • Avoid posting offensive or inappropriate content  
